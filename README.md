@@ -267,37 +267,6 @@ Computer Engineering
 
 ---
 
-## 📊 My Focus
-
-<div align="center">
-
-| Area          | Focus |
-| ------------- | ----- |
-| ⚡ Embedded    | ⭐⭐⭐⭐☆ |
-| 📡 IoT        | ⭐⭐⭐⭐☆ |
-| 🌐 Networking | ⭐⭐⭐⭐☆ |
-| 💻 Web        | ⭐⭐⭐⭐☆ |
-| 🔧 Hardware   | ⭐⭐⭐⭐☆ |
-
-</div>
-
-> ⭐ ระดับความสนใจและเป้าหมายในการพัฒนา — ไม่ใช่การจัดอันดับความสามารถ
-
----
-
-## 🚧 Future Goals
-
-เป้าหมายในระยะต่อไป:
-
-* [ ] สร้าง IoT System ที่ใช้งานได้จริง
-* [ ] พัฒนา Web Dashboard สำหรับ IoT
-* [ ] เชื่อมต่อ Embedded Device กับ Network
-* [ ] พัฒนา Project ที่รวม Hardware + Software + Web
-* [ ] สร้าง Portfolio ที่รวบรวมผลงานทั้งหมด
-* [ ] พัฒนา Open-Source Project ของตัวเอง
-
----
-
 ## 📫 ติดต่อ | Contact
 
 <div align="center">
