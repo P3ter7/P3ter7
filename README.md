@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student • IoT • Embedded Systems • Web Development
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;IoT+%7C+Embedded+Systems;Computer+Networks;Web+Development;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;IoT+%7C+Embedded+Systems;Computer+Networks;Web+Development;Building+Real-World+Projects" alt="Typing Animation">
 
 </div>
 
@@ -16,13 +16,13 @@
 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 
 ผมสนใจการออกแบบและพัฒนา **IoT และ Embedded Systems**
-โดยเฉพาะระบบที่สามารถเชื่อมต่อกับ **Network** และควบคุมหรือแสดงผลผ่าน **Web Interface** ได้
+โดยเฉพาะระบบที่สามารถเชื่อมต่อกับ **Network** และควบคุมหรือแสดงผลผ่าน **Web Interface**
 
-ผมชอบการนำ
+ผมสนใจการนำ
 
 **Hardware + Software + Network + Web**
 
-มาทำงานร่วมกัน เพื่อสร้างระบบที่สามารถใช้งานได้จริง
+มาทำงานร่วมกัน เพื่อสร้างระบบที่สามารถนำไปใช้งานได้จริง
 
 🌐 **Portfolio:**
 https://[P3ter7].github.io
@@ -31,128 +31,133 @@ https://[P3ter7].github.io
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,arduino,linux" />
-</p>
+<div align="center">
 
-| ด้าน           | สิ่งที่กำลังพัฒนา                  |
-| -------------- | ---------------------------------- |
-| 🌐 Web         | HTML, CSS, Web Interface           |
-| 🔧 Embedded    | Embedded Systems, Microcontroller  |
-| 📡 IoT         | Connected Devices, IoT Systems     |
-| 🌍 Network     | Internet & Networking Fundamentals |
-| 💻 Development | Git, GitHub, VS Code               |
+### 💻 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### ⚡ Embedded & Systems
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+
+</div>
 
 ---
 
 ## 🎯 สิ่งที่สนใจ | Areas of Interest
 
-### ⚡ Embedded Systems & IoT
-
-พัฒนาอุปกรณ์ที่สามารถ **รับข้อมูล → ประมวลผล → สื่อสาร → ควบคุม**
-และเชื่อมต่อกับระบบอื่นผ่าน Network
-
-### 🌐 Computer Networks
-
-ศึกษาเกี่ยวกับการสื่อสารระหว่างอุปกรณ์ ระบบเครือข่าย และการเชื่อมต่อสำหรับ IoT
-
-### 💻 Web Development
-
-สร้างเว็บไซต์และ **Web Interface** สำหรับควบคุมอุปกรณ์และแสดงผลข้อมูลจากระบบ
-
-### 🔗 Hardware × Software
-
-สนใจการเชื่อมต่อ Hardware เข้ากับ Software เพื่อสร้างระบบที่ทำงานร่วมกันได้อย่างมีประสิทธิภาพ
+| 🚀 Area                    | 💡 Interest                               |
+| -------------------------- | ----------------------------------------- |
+| ⚡ **Embedded Systems**     | ระบบควบคุมและการพัฒนาอุปกรณ์ Embedded     |
+| 📡 **IoT**                 | อุปกรณ์ที่เชื่อมต่อและสื่อสารผ่าน Network |
+| 🌐 **Computer Networks**   | การสื่อสารและเชื่อมต่อระหว่างอุปกรณ์      |
+| 💻 **Web Development**     | Website และ Web Interface                 |
+| 🔗 **Hardware × Software** | เชื่อมต่อ Hardware เข้ากับ Software       |
 
 ---
 
 ## 🚀 Projects | ผลงาน
 
-ผมกำลังสร้างและสะสมผลงานอย่างต่อเนื่อง โดยเน้นการนำความรู้หลายด้านมาประยุกต์ใช้ร่วมกัน
+ผมกำลังพัฒนาและสะสมผลงานอย่างต่อเนื่อง
+โดยเน้นการนำความรู้หลายด้านมาทำงานร่วมกัน
 
 ```text
-Hardware
-    ↓
-Embedded System
-    ↓
-Network
-    ↓
-Backend / Data
-    ↓
-Web Interface
-    ↓
-Real-World Application 🚀
+┌─────────────────────────────────┐
+│          HARDWARE               │
+└───────────────┬─────────────────┘
+                ↓
+┌─────────────────────────────────┐
+│       EMBEDDED SYSTEM           │
+└───────────────┬─────────────────┘
+                ↓
+┌─────────────────────────────────┐
+│            NETWORK              │
+└───────────────┬─────────────────┘
+                ↓
+┌─────────────────────────────────┐
+│        WEB INTERFACE             │
+└───────────────┬─────────────────┘
+                ↓
+        REAL-WORLD SYSTEM 🚀
 ```
 
-เป้าหมายไม่ได้มีเพียงการเรียนรู้เทคโนโลยี
-แต่คือการ **ออกแบบ → ลงมือสร้าง → ทดสอบ → แก้ปัญหา → พัฒนาให้ดีขึ้น**
+### 🔨 สิ่งที่กำลังสร้าง | Currently Building
 
-📌 โปรเจกต์ใหม่ ๆ จะทยอยอัปเดตบน GitHub และ Portfolio
+* 🌐 Web-based Interfaces
+* 📡 IoT & Connected Devices
+* ⚡ Embedded System Projects
+* 🔗 Hardware–Software Integration
+* 🖥️ Network-connected Applications
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=P3ter7&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ter7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+📌 **ผลงานจะทยอยอัปเดตบน GitHub และ Portfolio**
 
 ---
 
-## 🔥 GitHub Streak
+## 🧠 Development Mindset
 
-<div align="center">
+ผมเชื่อว่าการเรียนรู้ที่ดีที่สุดคือการ **ลงมือสร้างจริง**
 
-<img src="https://streak-stats.demolab.com/?user=P3ter7&theme=tokyonight&hide_border=true" />
+```text
+        Learn
+          ↓
+        Build
+          ↓
+        Test
+          ↓
+         Fix
+          ↓
+       Improve
+          ↓
+        Repeat
+          ↺
+```
 
-</div>
+ทุก Project คือโอกาสในการเรียนรู้
+และทุกปัญหาคือโอกาสในการพัฒนาทักษะให้ดีขึ้น
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
-HTML / CSS
-    ↓
-Web Development
-    ↓
-Computer Networking
-    ↓
-Embedded Systems
-    ↓
-IoT
-    ↓
-Hardware × Software Integration
-```
-
-ผมกำลังพัฒนาทักษะเหล่านี้ผ่านการ **ลงมือทำ Project จริง**
-เพื่อเปลี่ยนความรู้จากในห้องเรียนให้กลายเป็นประสบการณ์ที่สามารถนำไปใช้งานได้
+* HTML / CSS
+* Web Development
+* Internet & Networking Fundamentals
+* Embedded Systems
+* IoT
+* Hardware & Software Integration
+* System Design
 
 ---
 
-## 📈 My Development Journey
+## 📊 GitHub Activity
 
-**Learn → Build → Test → Fix → Improve**
+<div align="center">
 
-ทุกโปรเจกต์คือโอกาสในการเรียนรู้สิ่งใหม่
-และทุกปัญหาคือโอกาสในการพัฒนาทักษะให้ดีขึ้น
+![GitHub Contribution Graph](https://ghchart.rshah.org/P3ter7)
+
+</div>
+
+<p align="center">
+  <i>Every contribution is a step forward.</i>
+</p>
 
 ---
 
-## 📫 ติดต่อ | Contact
+## 🌐 Find Me Online
 
 <div align="center">
 
 <a href="https://github.com/P3ter7">
-  <img src="https://img.shields.io/badge/GitHub-P3ter7-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-P3ter7-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://[P3ter7].github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </div>
@@ -165,6 +170,6 @@ Hardware × Software Integration
 
 **เรียนรู้ → ลงมือสร้าง → แก้ปัญหา → พัฒนาให้ดีขึ้น**
 
-⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub ของผมครับ
+⭐ **Thanks for visiting my profile!**
 
 </div>
