@@ -1,12 +1,12 @@
-# 👋 สวัสดีครับ ผม P3ter7
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;IoT+%7C+Embedded+Systems;Computer+Networks;Web+Development;Building+Real-World+Projects" alt="Typing SVG" />
-</p>
+# 👋 สวัสดีครับ ผม **P3ter7**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="500" alt="Coding">
-</p>
+### Computer Engineering Student • IoT • Embedded Systems • Web Development
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;IoT+%7C+Embedded+Systems;Computer+Networks;Web+Development;Building+Real-World+Projects" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -16,28 +16,32 @@
 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 
 ผมสนใจการออกแบบและพัฒนา **IoT และ Embedded Systems**
-โดยเฉพาะระบบที่สามารถเชื่อมต่อกับ **Network** และทำงานร่วมกับ **Web Application** ได้
+โดยเฉพาะระบบที่สามารถเชื่อมต่อกับ **Network** และควบคุมหรือแสดงผลผ่าน **Web Interface** ได้
 
-ผมสนใจการนำ **Hardware + Software + Network + Web** มาทำงานร่วมกัน
-เพื่อสร้างระบบที่สามารถใช้งานได้จริง ไม่ได้จำกัดอยู่เพียงการทดลองหรือการเรียนรู้ในห้องเรียน
+ผมชอบการนำ
 
-🌐 **เว็บไซต์ส่วนตัว | Portfolio:**
+**Hardware + Software + Network + Web**
+
+มาทำงานร่วมกัน เพื่อสร้างระบบที่สามารถใช้งานได้จริง
+
+🌐 **Portfolio:**
 https://[P3ter7].github.io
 
 ---
 
-## 🛠️ สิ่งที่กำลังเรียนรู้ | Currently Learning
+## 🛠️ Skills & Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,arduino,linux" />
 </p>
 
-* 🌐 **HTML / CSS** — การพัฒนาเว็บไซต์และ Web Interface
-* 🔧 **Git / GitHub** — การจัดการ Source Code และ Project
-* 🌐 **Internet & Networking** — พื้นฐานการสื่อสารและระบบเครือข่าย
-* ⚡ **Embedded Systems** — การพัฒนาและควบคุมอุปกรณ์ Embedded
-* 📡 **IoT** — การเชื่อมต่ออุปกรณ์เข้ากับ Network และระบบออนไลน์
-* 💻 **Web Development** — การสร้างเว็บไซต์สำหรับควบคุมและแสดงผลข้อมูล
+| ด้าน           | สิ่งที่กำลังพัฒนา                  |
+| -------------- | ---------------------------------- |
+| 🌐 Web         | HTML, CSS, Web Interface           |
+| 🔧 Embedded    | Embedded Systems, Microcontroller  |
+| 📡 IoT         | Connected Devices, IoT Systems     |
+| 🌍 Network     | Internet & Networking Fundamentals |
+| 💻 Development | Git, GitHub, VS Code               |
 
 ---
 
@@ -45,111 +49,122 @@ https://[P3ter7].github.io
 
 ### ⚡ Embedded Systems & IoT
 
-สนใจการสร้างอุปกรณ์ที่สามารถรับข้อมูล ประมวลผล และสื่อสารกับอุปกรณ์หรือระบบอื่นผ่าน Network
+พัฒนาอุปกรณ์ที่สามารถ **รับข้อมูล → ประมวลผล → สื่อสาร → ควบคุม**
+และเชื่อมต่อกับระบบอื่นผ่าน Network
 
 ### 🌐 Computer Networks
 
-สนใจการทำงานของระบบเครือข่าย การสื่อสารระหว่างอุปกรณ์ และการเชื่อมต่ออุปกรณ์ IoT
+ศึกษาเกี่ยวกับการสื่อสารระหว่างอุปกรณ์ ระบบเครือข่าย และการเชื่อมต่อสำหรับ IoT
 
 ### 💻 Web Development
 
-สนใจการพัฒนาเว็บไซต์และ **Web Interface** สำหรับควบคุมอุปกรณ์และแสดงผลข้อมูลจากระบบ
+สร้างเว็บไซต์และ **Web Interface** สำหรับควบคุมอุปกรณ์และแสดงผลข้อมูลจากระบบ
 
-### 🔗 Hardware–Software Integration
+### 🔗 Hardware × Software
 
-สนใจการนำ Hardware และ Software มาทำงานร่วมกันให้กลายเป็นระบบที่สามารถใช้งานได้จริง
+สนใจการเชื่อมต่อ Hardware เข้ากับ Software เพื่อสร้างระบบที่ทำงานร่วมกันได้อย่างมีประสิทธิภาพ
 
 ---
 
-## 🚀 ผลงาน | Projects
+## 🚀 Projects | ผลงาน
 
-ผมกำลังพัฒนาและสะสมผลงานอย่างต่อเนื่อง โดยเน้นการนำความรู้หลายด้านมาทำงานร่วมกัน
+ผมกำลังสร้างและสะสมผลงานอย่างต่อเนื่อง โดยเน้นการนำความรู้หลายด้านมาประยุกต์ใช้ร่วมกัน
 
-**Hardware → Network → Software → Web Interface**
+```text
+Hardware
+    ↓
+Embedded System
+    ↓
+Network
+    ↓
+Backend / Data
+    ↓
+Web Interface
+    ↓
+Real-World Application 🚀
+```
 
-เป้าหมายของผมคือการไม่ได้เรียนรู้เพียงแค่ “วิธีใช้เทคโนโลยี”
-แต่ต้องการเข้าใจ **การออกแบบระบบ การพัฒนา การทดสอบ และการแก้ปัญหา**
-เพื่อสร้าง Project ที่สามารถนำไปใช้งานได้จริง
+เป้าหมายไม่ได้มีเพียงการเรียนรู้เทคโนโลยี
+แต่คือการ **ออกแบบ → ลงมือสร้าง → ทดสอบ → แก้ปัญหา → พัฒนาให้ดีขึ้น**
 
-📌 ผลงานจะทยอยอัปเดตบน GitHub และเว็บไซต์ส่วนตัว
+📌 โปรเจกต์ใหม่ ๆ จะทยอยอัปเดตบน GitHub และ Portfolio
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P3ter7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ter7&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=P3ter7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ter7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🔥 Contribution
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=P3ter7&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=P3ter7&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌱 เส้นทางการพัฒนา | My Journey
+## 🌱 Currently Learning
 
 ```text
-Computer Engineering
-        │
-        ▼
-   Programming
-        │
-        ▼
-Computer Networks
-        │
-        ▼
+HTML / CSS
+    ↓
+Web Development
+    ↓
+Computer Networking
+    ↓
 Embedded Systems
-        │
-        ▼
-       IoT
-        │
-        ▼
- Web Development
-        │
-        ▼
-Real-World Projects 🚀
+    ↓
+IoT
+    ↓
+Hardware × Software Integration
 ```
+
+ผมกำลังพัฒนาทักษะเหล่านี้ผ่านการ **ลงมือทำ Project จริง**
+เพื่อเปลี่ยนความรู้จากในห้องเรียนให้กลายเป็นประสบการณ์ที่สามารถนำไปใช้งานได้
 
 ---
 
-## 📚 กำลังพัฒนาตัวเองในด้าน
+## 📈 My Development Journey
 
-* Web Development
-* Computer Networking
-* Embedded Systems
-* IoT
-* Hardware & Software Integration
-* System Design
+**Learn → Build → Test → Fix → Improve**
 
-ผมเชื่อว่าการพัฒนาทักษะที่ดีที่สุดคือ **การลงมือสร้างจริง**
-
-**Learn → Build → Test → Improve → Repeat**
+ทุกโปรเจกต์คือโอกาสในการเรียนรู้สิ่งใหม่
+และทุกปัญหาคือโอกาสในการพัฒนาทักษะให้ดีขึ้น
 
 ---
 
 ## 📫 ติดต่อ | Contact
 
-<p align="center">
-  <a href="https://github.com/P3ter7">
-    <img src="https://img.shields.io/badge/GitHub-P3ter7-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://[P3ter7].github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/P3ter7">
+  <img src="https://img.shields.io/badge/GitHub-P3ter7-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://[P3ter7].github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“เรียนรู้ → ลงมือสร้าง → แก้ปัญหา → พัฒนาให้ดีขึ้น”</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub ของผมครับ
-</p>
+### 💡 Build something useful. Make it better.
+
+**เรียนรู้ → ลงมือสร้าง → แก้ปัญหา → พัฒนาให้ดีขึ้น**
+
+⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub ของผมครับ
+
+</div>
