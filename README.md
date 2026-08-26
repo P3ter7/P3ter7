@@ -1,16 +1,19 @@
-## Hi there 👋
+สวัสดีครับ ผม P3ter7 👋
+นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 2 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 
-<!--
-**P3ter7/P3ter7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[สนใจสร้างระบบ IoT และอุปกรณ์ Embedded ที่เชื่อมต่อกับเครือข่ายและสามารถควบคุมหรือแสดงผลผ่านเว็บได้]
 
-Here are some ideas to get you started:
+🔗 เว็บไซต์ของผม: https://[P3ter7].github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 กำลังเรียนรู้
+พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
+HTML และ CSS
+การใช้ Git และ GitHub
+🎯 สนใจไปทางไหน
+ระบบสมองกลฝังตัว (Embedded systems) และ IoT
+เครือข่ายคอมพิวเตอร์
+การพัฒนาเว็บ
+📌 ผลงาน
+ยังอยู่ในช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น ติดตามได้ที่เว็บไซต์ด้านบน
+
+📫 ติดต่อผ่าน GitHub ได้เลย
